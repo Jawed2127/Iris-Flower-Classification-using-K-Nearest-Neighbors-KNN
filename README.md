@@ -76,7 +76,7 @@ iris-knn-classification/
 ├── iris_knn.py        # Main Python script
 ├── README.md          # Project documentation (this file)
 
-📌 Conclusion
+ Conclusion
 This beginner-friendly project is a great introduction to:
 
 Scikit-learn's dataset and ML models
@@ -86,3 +86,7 @@ K-Nearest Neighbors algorithm
 Data visualization with seaborn & matplotlib
 
 Model evaluation metrics
+
+ Author
+Made by [J.JAWED AHAMED]
+GitHub: Jawed2127
